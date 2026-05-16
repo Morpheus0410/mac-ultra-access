@@ -1,8 +1,6 @@
 {
     "system_active": true,
-    "allowed_device_hashes": [
-        "b02f05417caab31ce7230b4fe6a2ac1e8cc8689293475de58615cf7fd92d863b"
-    ],
+    "allowed_device_hashes": [],
     "message": "Gerät nicht freigeschaltet.",
-    "updated_at": "2026-05-17 00:29:43"
+    "updated_at": "2026-05-17 00:30:18"
 }
