@@ -3,8 +3,9 @@
     "allowed_device_hashes": [
         "3fcf02febe4443571e732c2daae5ad3764bf8187791017dcb2d389f44d81f041",
         "de1ae72b7a2052479be163e6d612f5a97b46e5a08f5809df032cc7916b470930",
-        "819bde55a6eaed140b7ac0dce11bcf6cb6561be873df7fbf8252b254d602e4a7"
+        "819bde55a6eaed140b7ac0dce11bcf6cb6561be873df7fbf8252b254d602e4a7",
+        "3d946fb8789b56adf85fea2712fb8297736a06582c73e099b84f866c1ec97a15"
     ],
     "message": "Gerät nicht freigeschaltet.",
-    "updated_at": "2026-05-17 10:43:12"
+    "updated_at": "2026-05-17 10:54:09"
 }
